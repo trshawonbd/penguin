@@ -7,3 +7,23 @@ header {
 .foot {
   color: black;
 }
+.footer {
+  background-color: #0a0826;
+  height: 240px;
+  top: 3067px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.copywrite_title,
+.author {
+  padding: 10px 10px;
+}
+.all_social i {
+  padding-top: 10px;
+  padding-right: 20px;
+  font-size: 20px;
+}
